@@ -1,3 +1,4 @@
+// Implementação do filtro de itens vendidos
 import java.sql.PreparedStatement;
 import java.sql.Connection;
 import javax.swing.JOptionPane;
