@@ -1,3 +1,4 @@
+// Criação da tela de vendas para a atividade
 import java.util.ArrayList;
 import javax.swing.table.DefaultTableModel;
 
